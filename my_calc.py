@@ -34,6 +34,6 @@ def greater_numbers(num_1, num_2):
     return result
 
 def power_numbers(num_1):
-    result = num_1 * num_1
+    return num_1 * num_1
 
-    return result
+    
